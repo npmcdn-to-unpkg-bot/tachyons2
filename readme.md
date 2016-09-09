@@ -36,7 +36,7 @@ to the minified file in the head of your html file.
 
 Currently the latest version is 4.1.2
 ```html
-<link rel="stylesheet" href="https://npmcdn.com/tachyons@4.1.2/css/tachyons.min.css">
+<link rel="stylesheet" href="https://unpkg.com/tachyons@4.1.2/css/tachyons.min.css">
 ```
 
 ### Local Setup
